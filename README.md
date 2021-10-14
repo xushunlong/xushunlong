@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
   
  👨‍💻 25 Years old Java Developer
- 
- :earth_asia: I`m in NanJing
+
+ 🌱 I’m currently learning ...
+
 
 
